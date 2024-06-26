@@ -1,0 +1,36 @@
+_repo: Nouveaux-contes-de-Noel_73832
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arène, Paul
+    aliases:
+    - Arène, Paul Auguste
+    - Arene, Paul Auguste
+    birthdate: 1843
+    deathdate: 1896
+    gutenberg_agent_id: '39763'
+    url: http://www.gutenberg.org/2009/agents/39763
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Ar%C3%A8ne
+    - https://fr.wikipedia.org/wiki/Paul_Ar%C3%A8ne
+description: ''
+gutenberg_issued: '2024-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73832'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k826342
+pgterms:marc905: 20231219133726arne
+pgterms:marc906: '1890'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bMarpon et Flammarion, $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Nouveaux contes de Noël
+url: http://www.gutenberg.org/ebooks/73832
